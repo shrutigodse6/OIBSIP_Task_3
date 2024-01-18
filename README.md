@@ -63,7 +63,8 @@ The code includes some exception handling with try-catch blocks, although the ca
 The use of floating-point numbers (float) for representing monetary values may not be ideal due to precision issues. Using BigDecimal or double could be a better choice for financial calculations.
 Overall, the code represents a basic ATM system with user registration, login, and simple banking operations.
 
-output:
+OUTPUT: (Screenshots of output)
+
 PS C:\Users\Shruti\Desktop\c&c++> javac AtmInterface.java
 PS C:\Users\Shruti\Desktop\c&c++> java AtmInterface      
 
